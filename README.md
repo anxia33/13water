@@ -1,2 +1,3 @@
 # 13water
-language java
+一个十三水自动出牌作业
+=====
